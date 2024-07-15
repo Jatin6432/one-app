@@ -29,7 +29,7 @@ const App = () => {
     <div>
       {/* <button onClick={() => { setData(data + 2) }}>count by {data}</button> */}
       {/* <button onClick={() => { setCount(count + 2) }}>count by {count}</button> */}
-         <h1>Jatin - api intigiration demo</h1>
+         <h1>  api intigiration demo</h1>
 
       <div className='container d-flex flex-wrap justify-content-between mt-3 ms-0 me-0 '>
         {
